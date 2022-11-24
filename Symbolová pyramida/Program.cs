@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Symbolová_pyramida
+namespace Symbolová_pyramida_string
 {
     class Program
     {

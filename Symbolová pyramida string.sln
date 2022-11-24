@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1000
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbolová pyramida", "Symbolová pyramida\Symbolová pyramida.csproj", "{6E4D1C8A-137D-456F-BBAD-3E53DBFC0009}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbolová pyramida string", "Symbolová pyramida\Symbolová pyramida string.csproj", "{6E4D1C8A-137D-456F-BBAD-3E53DBFC0009}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
